@@ -1,0 +1,18 @@
+.div-parent .list .p-external {
+    color: brown;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.div-parent .list .decript {
+    color: red;
+    text-decoration: underline;
+}
+
+li {
+    text-decoration: overline;
+}
+
+.name1.name2 {
+    color: violet;
+}
